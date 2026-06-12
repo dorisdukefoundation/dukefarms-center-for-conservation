@@ -20,6 +20,5 @@ These repositories are managed by the Duke Farms Center for Conservation team:
 
 ## About Duke Farms
 
-Duke Farms is a center of the Doris Duke Foundation focused on environmental stewardship, conservation, and applied science.
+Duke Farms is a center of the Doris Duke Foundation. [Visit our website](www.dukefarms.org) for more information.
 
-Website: https://www.dukefarms.org/
