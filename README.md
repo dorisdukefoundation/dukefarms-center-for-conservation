@@ -1,4 +1,4 @@
-# Duke Farms Center for Conservation
+# Doris Duke Center for Conservation
 
 Public repositories, datasets, and research tools supporting science and conservation initiatives at Duke Farms, a center of the Doris Duke Foundation.
 
