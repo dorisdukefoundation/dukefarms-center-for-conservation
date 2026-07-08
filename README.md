@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="0480a7fa-88a3-46ba-b588-784091e96057" src="https://github.com/user-attachments/assets/09bf7115-e10b-44d0-b516-f6806e0c131a" />
+
 # Doris Duke Center for Conservation
 
 Public repositories, datasets, and research tools supporting science and conservation initiatives at Duke Farms, a center of the Doris Duke Foundation.
